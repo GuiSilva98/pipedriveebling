@@ -30,6 +30,7 @@
     "express": "^4.17.1",
     "mongodb": "^4.2.1",
     "mongoose": "^6.1.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "strong-soap": "^3.3.1"
   }
 }
